@@ -17,8 +17,8 @@ This backend is designed to support a cross-chain bridge infrastructure using a 
 ## 🧱 Tech Stack
 
 - **Node.js**
-- **Node.js**
 - **Ethers.js**
 - **dotenv**
 - **Custom Solidity Bridge Contract**
 - **Mongodb**
+- **MySQL**
