@@ -17,16 +17,8 @@ This backend is designed to support a cross-chain bridge infrastructure using a 
 ## 🧱 Tech Stack
 
 - **Node.js**
-- **TypeScript**
+- **Node.js**
 - **Ethers.js**
 - **dotenv**
 - **Custom Solidity Bridge Contract**
-
-
-
-# 👤 Author
-
-### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
-
-### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
-
+- **Mongodb**
